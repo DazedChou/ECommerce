@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Caffe Mocha",
+        "price": 4.99,
+        "description": "It’s a quintessential mocha packed with chocolate and coffee blended in just the right amount. If you can’t decide whether you want to order coffee or hot chocolate, a caffé mocha is a great choice.",
+        "image": "https://athome.starbucks.com/sites/default/files/styles/homepage_banner_xlarge/public/2021-06/CaffeMocha_Header.jpg?h=cf77c377&itok=40ttethA",
+        "category": "Starbucks"
+    },
+    {
+        "name": "Caffe Latte",
+        "price": 4.99,
+        "description": "This is the perfect drink for a hot day. Its a latte with a hint of espresso and a touch of milk. It’s a great way to start your day.",
+        "image": "https://cdn7.kiwilimon.com/recetaimagen/36986/46349.jpg",
+        "category": "Starbucks"
+    },
+    {
+        "name": "Caffe Americano",
+        "price": 4.99,
+        "description": "This is a shot of espresso with hot water.",
+        "image": "https://cdn.buttercms.com/AB7ud4YSE6nmOX0iGlgA",
+        "category": "Starbucks"
+    },
+    {
+        "name": "Matcha Green Tea Latte",
+        "price": 4.99,
+        "description": "This is a latte with a hint of matcha green tea. Its a great way to start your day.",
+        "image": "https://www.acouplecooks.com/wp-content/uploads/2021/08/Matcha-Latte-001s.jpg",
+        "category": "Starbucks"
+    },
+    {
+        "name": "Caffe Vanilla Latte",
+        "price": 4.99,
+        "description": "This is a latte with a hint of vanilla. Its a great way to start your day.",
+        "image": "https://pancakerecipes.com/wp-content/uploads/2021/02/iced-vanilla-latte-1500-13-SQUARE.jpg",
+        "category": "Starbucks"
+    },
+    {
+        "name": "Caffe Espresso",
+        "price": 4.99,
+        "description": "This is a shot of espresso.",
+        "image": "https://cdn.shopify.com/s/files/1/0533/9496/4673/products/adi-goldstein-xKS-1DP4g7A-unsplash_1800x1800.jpg?v=1643596960",
+        "category": "Starbucks"
+    },
+    {
+        "name": "Caramel Frappuccino",
+        "price": 4.99,
+        "description": "This is a frappuccino with a hint of caramel. Its a great way to start your day.",
+        "image": "https://insanelygoodrecipes.com/wp-content/uploads/2021/01/starbucks-caramel-frappuccino.png",
+        "category": "Starbucks"
+    },
+    {
+        "name": "Pink Drink",
+        "price": 4.99,
+        "description": "Strawberry acai refresher with coconut milk for some added thickness and flavor.",
+        "image": "https://realhousemoms.com/wp-content/uploads/Copycat-Starbucks-Pink-Drink-IG.jpg",
+        "category": "Starbucks"
+    },
+    {
+        "nam": "Raspberry Green Tea Lemonade",
+        "price": 4.99,
+        "description": "This is a lemonade with a hint of raspberry and green tea. It’s bougie.",
+        "image": "https://cdn.totallythebomb.com/wp-content/uploads/2022/01/Starbucks-Low-Calorie-Raspberry-Green-Tea-Lemonade-2.jpg.webp",
+        "category": "Starbucks"
+    },
+    {
+        "name": "Caffe Vanilla Frappuccino",
+        "price": 4.99,
+        "description": "This is a frappuccino with a hint of vanilla. Its a great way to start your day.",
+        "image": "https://cdnimg.webstaurantstore.com/images/products/large/592809/2170388.jpg",
+        "category": "Starbucks"
+    },
+    {
+        "name": "Strawberry Milk Tea",
+        "price": 6.50,
+        "description": "This is a milk tea with a hint of strawberry. Its a great way to start your day.",
+        "image": "https://www.mashed.com/img/gallery/popular-boba-flavors-ranked-worst-to-best/strawberry-milk-tea-1632331946.webp",
+        "category": "Boba"
+    },
+    {
+        "name":"Mango Milk Tea",
+        "price": 6.50,
+        "description": "This is a milk tea with a hint of mango. Its a great way to start your day.",
+        "image": "https://thelittlestcrumb.com/wp-content/uploads/mango-milk-tea-featured-image-1.jpg",
+        "category": "Boba"
+    },
+    {
+        "name": "Honeydew Tea",
+        "price": 6.50,
+        "description": "This is a milk tea with a hint of honeydew. Its a great way to start your day.",
+        "image": "https://www.mashed.com/img/gallery/popular-boba-flavors-ranked-worst-to-best/honeydew-tea-1632331946.webp",
+        "category": "Boba"
+    },
+    {
+        "name": "Brown Sugar Tea",
+        "price": 7,
+        "description": "Black milk tea with brown sugar.",
+        "image": "https://www.mashed.com/img/gallery/popular-boba-flavors-ranked-worst-to-best/brown-sugar-tea-1632331946.webp",
+        "category": "Boba"
+    },
+    {
+        "name": "Coffee Tea",
+        "price": 7,
+        "description": "Coffee with tea.",
+        "image": "https://www.mashed.com/img/gallery/popular-boba-flavors-ranked-worst-to-best/coffee-tea-1632331946.webp",
+        "category": "Boba"
+    },
+    {
+        "name": "Matcha Milk Tea",
+        "price": 7,
+        "description": "This is a milk tea with a hint of matcha. Its a great way to start your day.",
+        "image": "https://www.mashed.com/img/gallery/popular-boba-flavors-ranked-worst-to-best/matcha-milk-tea-1632331946.webp",
+        "category": "Boba"
+    },
+    {
+        "name": "Thai Milk Tea",
+        "price": 7,
+        "description": "This is thai tea with milk. May induce diabetes due to its sweetness.",
+        "image": "https://www.mashed.com/img/gallery/popular-boba-flavors-ranked-worst-to-best/thai-milk-tea-1632331946.webp",
+        "category": "Boba"
+    },
+    {
+        "name":"Strawberry Milk Tea",
+        "price": 7,
+        "description": "This is a milk tea with a hint of strawberry. Its a great way to start your day.",
+        "image": "https://milkandpop.com/wp-content/uploads/2021/04/strawberry-milk-tea-10-735x735.jpg",
+        "category": "Boba"
+    },
+    {
+        "name": "Coconut Milk Tea",
+        "price": 7,
+        "description": "This is a milk tea with a hint of coconut. Its a great way to start your day.",
+        "image": "https://images.squarespace-cdn.com/content/v1/5b7ded13cc8fedc11f2dfbe8/1547766627567-1ERUUHL7SZRVL7MDP0ME/IMG_4794.JPG",
+        "category": "Boba"
+    },
+    {
+        "name": "Oolong Milk Tea",
+        "price": 7,
+        "description": "Light and creamy Oolong Milk Tea with brown suga tapioca pearls.",
+        "image": "https://sugaryums.co.uk/wp-content/uploads/2022/03/Oolong-Milk-Tea-SugarYums-10.jpg",
+        "category": "Boba"
+    }
+]
